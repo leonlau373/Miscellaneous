@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1642482906 source:d:\nya10 personal study\computer science\c++ lesson project\clock\clock class\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+	<limits>
+
